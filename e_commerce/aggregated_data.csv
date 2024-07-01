@@ -1,0 +1,2 @@
+customer_id,name,email,country,total_amount_spent,total_orders,total_products_ordered,average_rating,average_order_value
+9,Customer 9,customer9@email.com,Country 9,180.82,1,4,2.0,180.82

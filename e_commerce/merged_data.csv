@@ -1,0 +1,2 @@
+customer_id,name,email,country,order_id,order_date,total_amount,status,item_id,product_id,quantity,price,product_name,category_id,category_name,review_id,rating,review_date
+9,Customer 9,customer9@email.com,Country 9,7,2024-06-04,180.82,Pending,9,7,4,71.1,Product 7,6,Category 6,4,2,2024-06-19

@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,total_amount,status
+1,1,2024-06-06,27.91,Pending
+2,5,2024-06-16,619.73,Delivered
+3,9,2024-06-26,390.03,Pending
+4,10,2024-06-12,570.08,Pending
+5,2,2024-06-09,745.69,Shipped
+6,1,2024-06-19,835.66,Pending
+7,9,2024-06-04,180.82,Pending
+8,3,2024-06-06,202.50,Shipped
+9,6,2024-06-06,465.96,Pending
+10,6,2024-06-15,247.19,Delivered
